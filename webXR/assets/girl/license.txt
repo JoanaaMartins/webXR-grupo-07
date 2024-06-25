@@ -1,0 +1,11 @@
+Model Information:
+* title:	Female
+* source:	https://sketchfab.com/3d-models/female-66ca6277da4d4810992f42cb00743d15
+* author:	danmars (https://sketchfab.com/danmars)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Female" (https://sketchfab.com/3d-models/female-66ca6277da4d4810992f42cb00743d15) by danmars (https://sketchfab.com/danmars) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
